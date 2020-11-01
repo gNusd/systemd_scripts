@@ -1,4 +1,4 @@
-## Mount NFS tyrellCorp /home/media
+## Mount NFS tyrellCorp /home/media,  /etc/systemd/system
 
 [Unit]
 Description=Mount 192.168.1.182:/home/media
